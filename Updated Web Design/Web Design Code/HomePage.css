@@ -36,7 +36,7 @@ div.cyber-response-top {
 
 a.cyber-response-title {
 	color: #3E0007;
-	font-size: 67pt;
+	font-size: 80pt;
 	font-family: Phenomena-Black;
 	font-weight: bold;
 	text-decoration: none;
@@ -75,7 +75,7 @@ div.AboutUs {
 		text-decoration: none;
 	}
 
-div.Sign-In {
+div.Sign-Up {
 	background-color: #FFFFFF;
 
 	color: #3E0007;
@@ -99,11 +99,11 @@ div.Sign-In {
 	-webkit-transition:height 0.5s;
 }
 
-	div.Sign-In:hover{
+	div.Sign-Up:hover{
 		height: 50px;
 	}
 
-	a.Sign-In {
+	a.Sign-Up {
 		color: #3E0007;
 		text-decoration: none;
 	}
